@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publicationDate": "1813"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publicationDate": "1960"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publicationDate": "1813"
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "publicationDate": "1967"
+    },
+    {
+        "title": "In Cold Blood",
+        "author": "Truman Capote",
+        "publicationDate": "1965"
+    },
+    {
+        "title": "Wide Sargasso Sea",
+        "author": "Jean Rhys",
+        "publicationDate": "1966"
+    }
+]
